@@ -2,7 +2,7 @@
 using System;
 using Xunit;
 
-namespace AlinSpace.FluentResults.Tests
+namespace AlinSpace.Returns.Tests
 {
     /// <summary>
     /// Tests for <see cref="Optional{TReturn}"/>.

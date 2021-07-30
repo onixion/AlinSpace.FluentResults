@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
-namespace AlinSpace.FluentResults
+namespace AlinSpace.Returns
 {
     /// <summary>
     /// Optional.

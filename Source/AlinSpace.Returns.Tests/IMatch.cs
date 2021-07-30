@@ -1,4 +1,4 @@
-﻿namespace AlinSpace.FluentResults.Tests
+﻿namespace AlinSpace.Returns.Tests
 {
     /// <summary>
     /// This interface is used for testing.

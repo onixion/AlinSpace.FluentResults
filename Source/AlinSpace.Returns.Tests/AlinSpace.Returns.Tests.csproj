@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AlinSpace.FluentResults\AlinSpace.FluentResults.csproj" />
+    <ProjectReference Include="..\AlinSpace.Returns\AlinSpace.Returns.csproj" />
   </ItemGroup>
 
 </Project>

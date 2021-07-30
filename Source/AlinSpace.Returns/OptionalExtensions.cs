@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AlinSpace.FluentResults
+namespace AlinSpace.Returns
 {
     /// <summary>
     /// Extensions for <see cref="Optional{TReturn}"/>.
