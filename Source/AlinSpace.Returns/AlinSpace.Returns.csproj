@@ -13,9 +13,9 @@
     <Copyright>Copyright © 2021 Alin Andersen</Copyright>
     <Description>Fluent Results library.</Description>
     <PackageTags>fluent, results, result, optional, option, fluent-api, fluent-design</PackageTags>
-    <Version>5.0.0.0</Version>
-    <FileVersion>5.0.0.0</FileVersion>
-    <AssemblyVersion>5.0.0.0</AssemblyVersion>
+    <Version>5.0.1</Version>
+    <FileVersion>5.0.1.0</FileVersion>
+    <AssemblyVersion>5.0.1.0</AssemblyVersion>
   </PropertyGroup>
 
   <ItemGroup>
